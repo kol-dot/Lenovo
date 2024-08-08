@@ -2,5 +2,5 @@ import streamlit as st
 from streamlit_webrtc import webrtc_streamer
 
 def run():
-    st.title("Real-Time Staff Classification")
-    webrtc_streamer(key="example")
+    st.title("WebRTC Test")
+    webrtc_streamer(key="test")
